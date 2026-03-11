@@ -2,3 +2,4 @@ Nome: Milena Sucharski Almeida Carvalho
 Curso: Análise e Desenvolvimento de Sistemas
 Interesses: Programação e tecnologia
 Objetivo: Aprender programação e atuar na área
+GitHub: aprendendo versionamento de codigo
